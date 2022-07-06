@@ -1,0 +1,215 @@
+@font-face {
+  font-family: 'BeyondRiskIcons';
+  src:
+    url('fonts/BeyondRiskIcons.ttf?msfipu') format('truetype'),
+    url('fonts/BeyondRiskIcons.woff?msfipu') format('woff'),
+    url('fonts/BeyondRiskIcons.svg?msfipu#BeyondRiskIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="br-"], [class*=" br-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'BeyondRiskIcons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.br-circle-dots:before {
+  content: "\e936";
+}
+.br-last-cycle-success:before {
+  content: "\e939";
+}
+.br-next-cycle:before {
+  content: "\e93e";
+}
+.br-accordion-info:before {
+  content: "\e93d";
+}
+.br-accordion-expand:before {
+  content: "\e93c";
+}
+.br-adapter-cog:before {
+  content: "\e921";
+}
+.br-adapters-view-cards:before {
+  content: "\e92f";
+}
+.br-adapters-view-list:before {
+  content: "\e930";
+}
+.br-column-freeze:before {
+  content: "\e931";
+}
+.br-download-as:before {
+  content: "\e932";
+}
+.br-fetch-adapter:before {
+  content: "\e933";
+}
+.br-force-fetch-adapter:before {
+  content: "\e934";
+}
+.br-last-cycle:before {
+  content: "\e935";
+}
+.br-menu-action-notifications:before {
+  content: "\e937";
+}
+.br-menu-action-sun:before {
+  content: "\e938";
+}
+.br-save-query-assets-search:before {
+  content: "\e93a";
+}
+.br-search-icon:before {
+  content: "\e93b";
+}
+.br-adapters:before {
+  content: "\e900";
+}
+.br-adapters-connected:before {
+  content: "\e901";
+}
+.br-computers:before {
+  content: "\e902";
+}
+.br-desktops:before {
+  content: "\e903";
+}
+.br-laptops:before {
+  content: "\e904";
+}
+.br-others:before {
+  content: "\e905";
+}
+.br-printers:before {
+  content: "\e906";
+}
+.br-smart-devices:before {
+  content: "\e907";
+}
+.br-smartphones:before {
+  content: "\e908";
+}
+.br-tablets:before {
+  content: "\e909";
+}
+.br-encryption:before {
+  content: "\e90a";
+}
+.br-endpoint-distribution:before {
+  content: "\e90b";
+}
+.br-operating-system:before {
+  content: "\e90c";
+}
+.br-os-cloud:before {
+  content: "\e90d";
+}
+.br-os-linux:before {
+  content: "\e90e";
+}
+.br-os-mac:before {
+  content: "\e90f";
+}
+.br-os-routers:before {
+  content: "\e910";
+}
+.br-os-windows:before {
+  content: "\e911";
+}
+.br-compliance-detect:before {
+  content: "\e912";
+}
+.br-compliance-identify:before {
+  content: "\e913";
+}
+.br-compliance-protect:before {
+  content: "\e914";
+}
+.br-compliance-recover:before {
+  content: "\e915";
+}
+.br-compliance-respond:before {
+  content: "\e916";
+}
+.br-financial-impact:before {
+  content: "\e917";
+}
+.br-insurance-coverage:before {
+  content: "\e918";
+}
+.br-arrow-left:before {
+  content: "\e919";
+}
+.br-menu-adapters:before {
+  content: "\e91a";
+}
+.br-menu-adapters-black:before {
+  content: "\e91b";
+}
+.br-menu-assets:before {
+  content: "\e91c";
+}
+.br-black-circlemenu-on:before {
+  content: "\e91d";
+}
+.br-menu-compliance:before {
+  content: "\e91e";
+}
+.br-menu-compliance-on:before {
+  content: "\e91f";
+}
+.br-menu-dashboard:before {
+  content: "\e920";
+}
+.br-menu-finance:before {
+  content: "\e922";
+}
+.br-menu-finance-on:before {
+  content: "\e923";
+}
+.br-menu-rims:before {
+  content: "\e924";
+}
+.br-menu-rims-on:before {
+  content: "\e925";
+}
+.br-menu-settings:before {
+  content: "\e926";
+}
+.br-menu-settings-on:before {
+  content: "\e927";
+}
+.br-arrow-right:before {
+  content: "\e928";
+}
+.br-rim-group:before {
+  content: "\e929";
+}
+.br-risk-score:before {
+  content: "\e92a";
+}
+.br-settings-account:before {
+  content: "\e92b";
+}
+.br-settings-billing:before {
+  content: "\e92c";
+}
+.br-settings-organisation:before {
+  content: "\e92d";
+}
+.br-settings-users:before {
+  content: "\e92e";
+}

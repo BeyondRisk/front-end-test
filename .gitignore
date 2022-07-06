@@ -1,0 +1,41 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+super-linter.log
+
+# Ignore all env files as they are specific to each developers machine.
+.env
+
+# Ignore dist folder as not necessary to track compiled files.
+dist
+
+# Ignore yarn-lock file.
+yarn.lock
+
+# Ignore all .next compiled artifacts
+.next
+out
+
+# Ignore all storybook-static compiled artifacts
+storybook-static
